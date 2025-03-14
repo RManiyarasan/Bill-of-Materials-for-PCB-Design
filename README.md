@@ -1,7 +1,7 @@
 # Bill-of-Materials-for-PCB-Design
 # Aim
 
-To prepare the Bill of Material for the given circuit.
+To prepare the Bill of Material for the  USB Charger power supply circuit
 
 # Software’s required
 
@@ -59,16 +59,18 @@ During the product life, components may fail needing repair or upgrade. Here the
 
 # Circuit Diagram
 
+![WhatsApp Image 2025-03-14 at 08 13 18_4c11b186](https://github.com/user-attachments/assets/2a3c9c8a-7552-46d0-8b60-ea73f8e6fafc)
 
 
 
 # Output
 
+![WhatsApp Image 2025-03-13 at 10 21 38_529b302b](https://github.com/user-attachments/assets/85f6b1d3-97c6-41e2-8c75-6cad6d9946c0)
 
 
 
 
 # Result 
-Thus the bill of materials is prepared for the given PCB circuit.
+Thus the bill of materials is prepared for USB charger power supply circuit.
 
 
